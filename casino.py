@@ -3,7 +3,7 @@
 import os
 from random import randrange
 
-print "Bienvenue au Casino Jay "
+print "Bienvenue au Casino LOL"
 reponse_ok=False
 argent=0
 reponse=raw_input("Voulez vous jouer une partie ? Taper O pour Oui N pour Non. ")
